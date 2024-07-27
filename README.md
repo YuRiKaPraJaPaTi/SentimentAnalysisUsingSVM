@@ -1,6 +1,6 @@
 # SentimentAnalysisUsingSVM
 This project is focused on performing sentiment analysis using a Support Vector Machine (SVM) classifier. The data used for training and testing the model is self-made and sourced from Kaggle. This README provides an overview of the project.
-Sentiment analysis is a common task in Natural Language Processing (NLP) that involves determining the sentiment expressed in a piece of text. This project uses an SVM classifier to perform sentiment analysis on a dataset of text reviews. The goal is to classify the sentiment of each review as positive or negative.
+Sentiment analysis is a common task in Natural Language Processing (NLP) that involves determining the sentiment expressed in a piece of text. This project uses an SVM classifier to perform sentiment analysis on a dataset of text reviews of beauty product review in nepali language. The goal is to classify the sentiment of each review as positive or negative.
 The dataset used in this project is self-made and available on Kaggle. It consists of text reviews labeled with their respective sentiments (positive or negative). The dataset can be downloaded from the following link:https://www.kaggle.com/datasets/yurikaprajapati/nepalibeautyreviewdataforsentimentanalysis?select=cleaned_nepali.csv
 
  SVM Process Description
